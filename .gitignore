@@ -14,3 +14,10 @@ face_generation/data/
 
 */.floyd*
 
+/.idea/dbnavigator.xml
+.idea/
+/.idea/deep-learning.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/codeStyles/Project.xml
+/.idea/vcs.xml
